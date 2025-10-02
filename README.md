@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Khujo77
+- 👋 Hi, I’m @JRose77
 - 👀 I’m interested in Cycling 
 - 🌱 I’m currently learning Secuirty 
 - 💞️ I’m looking to collaborate on coding Learning
-- 📫 How to reach me sliq77@gmail.com
+- 📫 How to reach me rosejaon7@gmail.com
 
 <!---
 Khujo77/Khujo77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
