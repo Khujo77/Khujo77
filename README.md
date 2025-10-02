@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khujo77
 - 👀 I’m interested in Cycling 
-- 🌱 I’m currently learning Secuirty 
+- 🌱 I’m currently working Azure 900 & 104
 - 💞️ I’m looking to collaborate on coding Learning
 - 📫 How to reach me sliq77@gmail.com
 
